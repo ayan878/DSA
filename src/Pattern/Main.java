@@ -9,6 +9,7 @@ public class Main {
             System.out.println();
         }
     }
+
     public static void main(String[] args) {
         Main mn = new Main();
         mn.square(5);
