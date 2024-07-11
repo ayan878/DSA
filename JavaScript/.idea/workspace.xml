@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic Maths/GCD.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Maths/LCM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Maths/PrimeNumer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <updated>1720604323239</updated>
       <workItem from="1720604325052" duration="13020000" />
       <workItem from="1720632591034" duration="1292000" />
-      <workItem from="1720694968878" duration="12504000" />
+      <workItem from="1720694968878" duration="16595000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1720604979915</created>
@@ -113,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720716003598</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="GCD">
+      <created>1720717107787</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720717107787</updated>
+    </task>
+    <task id="LOCAL-00010" summary="LCM">
+      <created>1720717124242</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720717124242</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +161,8 @@
     <MESSAGE value="count digits" />
     <MESSAGE value="reverse number" />
     <MESSAGE value="Palindrome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindrome" />
+    <MESSAGE value="GCD" />
+    <MESSAGE value="LCM" />
+    <option name="LAST_COMMIT_MESSAGE" value="LCM" />
   </component>
 </project>
