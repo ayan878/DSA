@@ -96,6 +96,17 @@ function invertedRightAngleNumbers(n) {
 invertedRightAngleNumbers(5)
 
 
+function invertedRightAngleNumberPatternIII(n){
+    for (let i = n; i >0 ; i--) {
+        let row='';
+        for (let j = 1; j <=i; j++) {
+            row+=i;
+        }
+        console.log(row);
+    }
+}
+invertedRightAngleNumberPatternIII(5)
+
 console.log("Star Pyramid Pattern");
 function starPyramid(n) {
     for (let i = 0; i < n; i++) {
@@ -143,3 +154,98 @@ function diamondStar(n){
     invertedStarPyramid(5);
 }
 diamondStar(5)
+console.log("HalfDiamond");
+
+function halfDiamond(n) {
+    // Upper half of the diamond
+    for (let i = 1; i <= n; i++) {
+        let row = '';
+        for (let j = 0; j < i; j++) {
+            row += '*';
+        }
+        console.log(row);
+    }
+
+    // Lower half of the diamond (excluding the middle line if n is odd)
+    for (let i = n - 1; i > 0; i--) {
+        let row = '';
+        for (let j = 0; j < i; j++) {
+            row += '*';
+        }
+        console.log(row);
+    }
+}
+
+halfDiamond(5);
+
+console.log("Binary Triangle");
+function binaryTriangle(n) {
+    for (let i = 1; i <= n; i++) {
+        let row = '';
+
+        for (let j = 1; j <= i; j++) {
+
+            if (j % 2 === 0) {
+                row += '0';
+            } else {
+                row += '1';
+            }
+        }
+
+        console.log(row);
+    }
+}
+
+binaryTriangle(5);
+
+console.log("Right Angle Increasing Number Pattern");
+function rightAngleIncreasingNumbers(n) {
+    let count = 1;
+    for (let i = 1; i <= n; i++) {
+        let row = '';
+
+        for (let j = 1; j <= i; j++) {
+            row += count++ + ' ';
+        }
+        console.log(row);
+    }
+}
+rightAngleIncreasingNumbers(5);
+console.log("Right Angle Increasing Alphabets Pattern");
+
+console.log("Right Angle Increasing Letters Pattern");
+
+function rightAngleIncreasingLetters(n) {
+    let startChar = 'A';
+
+    for (let i = 1; i <= n; i++) {
+        let row = '';
+        let  startChar='A';
+
+        for (let j = 1; j <= i; j++) {
+            row += String.fromCharCode(startChar.charCodeAt(0)) + ' ';
+            startChar = String.fromCharCode(startChar.charCodeAt(0) + 1);
+        }
+        console.log(row);
+    }
+}
+
+rightAngleIncreasingLetters(5);
+
+function rightAngleIncreasingAlphabets(n) {
+    let startChar = 'A';
+
+    for (let i = 1; i <= n; i++) {
+        let row = '';
+
+        for (let j = 1; j <= i; j++) {
+            row += String.fromCharCode(startChar.charCodeAt(0)) + ' ';
+            startChar = String.fromCharCode(startChar.charCodeAt(0) + 1);
+        }
+
+        console.log(row);
+    }
+}
+
+rightAngleIncreasingAlphabets(5);
+
