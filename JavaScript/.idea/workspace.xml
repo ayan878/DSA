@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="Palindrome">
+    <list default="true" id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Basic Maths/GCD.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Maths/LCM.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Maths/Palindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Maths/Palindrome.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <updated>1720604323239</updated>
       <workItem from="1720604325052" duration="13020000" />
       <workItem from="1720632591034" duration="1292000" />
-      <workItem from="1720694968878" duration="11215000" />
+      <workItem from="1720694968878" duration="12504000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1720604979915</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720715274952</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Palindrome">
+      <created>1720716003598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720716003598</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
