@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic Maths/CountDigits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Maths/Palindrome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basic Maths/ReverseNumber.js" afterDir="false" />
+    <list default="true" id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="Palindrome">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic Maths/Palindrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Maths/Palindrome.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <updated>1720604323239</updated>
       <workItem from="1720604325052" duration="13020000" />
       <workItem from="1720632591034" duration="1292000" />
-      <workItem from="1720694968878" duration="10547000" />
+      <workItem from="1720694968878" duration="11215000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1720604979915</created>
@@ -86,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1720705806882</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="count digits">
+      <created>1720715223334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720715223334</updated>
+    </task>
+    <task id="LOCAL-00006" summary="count digits">
+      <created>1720715244513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720715244513</updated>
+    </task>
+    <task id="LOCAL-00007" summary="reverse number">
+      <created>1720715274952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720715274952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +137,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern" />
+    <MESSAGE value="count digits" />
+    <MESSAGE value="reverse number" />
+    <MESSAGE value="Palindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome" />
   </component>
 </project>
