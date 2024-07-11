@@ -248,4 +248,31 @@ function rightAngleIncreasingAlphabets(n) {
 }
 
 rightAngleIncreasingAlphabets(5);
+class Main {
+    static pattern18(N) {
+        for (let i = 0; i < N; i++) {
+            let row = '';
+
+            // Inner loop for printing the alphabets from
+            // 'A' + N - 1 - i (i is row number) to 'A' + N - 1.
+            for (let j = 'A'.charCodeAt(0) + N - 1 - i; j <= 'A'.charCodeAt(0) + N - 1; j++) {
+                let ch = String.fromCharCode(j);
+                row += ch + ' ';
+            }
+
+            // Print the row for each iteration
+            console.log(row);
+        }
+    }
+
+    static main(args) {
+        // Here, we have taken the value of N as 5.
+        // We can also take input from the user.
+        let N = 5;
+        this.pattern18(N);
+    }
+}
+
+// Call main method to execute
+Main.main();
 
