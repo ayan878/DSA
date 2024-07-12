@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic Maths/PrimeNumer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Maths/MissingNumbers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,9 @@
       <updated>1720604323239</updated>
       <workItem from="1720604325052" duration="13020000" />
       <workItem from="1720632591034" duration="1292000" />
-      <workItem from="1720694968878" duration="16595000" />
+      <workItem from="1720694968878" duration="18396000" />
+      <workItem from="1720779369705" duration="30000" />
+      <workItem from="1720779561616" duration="476000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1720604979915</created>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720717124242</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Prime Number">
+      <created>1720722708957</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720722708957</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +172,7 @@
     <MESSAGE value="Palindrome" />
     <MESSAGE value="GCD" />
     <MESSAGE value="LCM" />
-    <option name="LAST_COMMIT_MESSAGE" value="LCM" />
+    <MESSAGE value="Prime Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime Number" />
   </component>
 </project>
