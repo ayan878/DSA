@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dynamic Programming/Fibonnaci/FibonacciMemoization.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2j38IgotiE0eXffsR5yj6wn7C3c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;javascript&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e44f91f1-6ac5-4970-8dce-86cd65af58e3" name="Changes" comment="" />
+      <created>1720604323239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720604323239</updated>
+      <workItem from="1720604325052" duration="13020000" />
+      <workItem from="1720632591034" duration="1292000" />
+      <workItem from="1720694968878" duration="18396000" />
+      <workItem from="1720779369705" duration="30000" />
+      <workItem from="1720779561616" duration="758000" />
+      <workItem from="1730552912526" duration="647000" />
+      <workItem from="1731253534679" duration="2316000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1720604979915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720604979915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pattern">
+      <created>1720613078490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720613078490</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pattern">
+      <created>1720702735535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720702735535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pattern">
+      <created>1720705806882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720705806882</updated>
+    </task>
+    <task id="LOCAL-00005" summary="count digits">
+      <created>1720715223334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720715223334</updated>
+    </task>
+    <task id="LOCAL-00006" summary="count digits">
+      <created>1720715244513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720715244513</updated>
+    </task>
+    <task id="LOCAL-00007" summary="reverse number">
+      <created>1720715274952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720715274952</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Palindrome">
+      <created>1720716003598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720716003598</updated>
+    </task>
+    <task id="LOCAL-00009" summary="GCD">
+      <created>1720717107787</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720717107787</updated>
+    </task>
+    <task id="LOCAL-00010" summary="LCM">
+      <created>1720717124242</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720717124242</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Prime Number">
+      <created>1720722708957</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720722708957</updated>
+    </task>
+    <task id="LOCAL-00012" summary="MissingNumbers.js">
+      <created>1720780312980</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720780312980</updated>
+    </task>
+    <task id="LOCAL-00013" summary="dynamic programming">
+      <created>1731273111595</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731273111595</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/javascript" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="pattern" />
+    <MESSAGE value="count digits" />
+    <MESSAGE value="reverse number" />
+    <MESSAGE value="Palindrome" />
+    <MESSAGE value="GCD" />
+    <MESSAGE value="LCM" />
+    <MESSAGE value="Prime Number" />
+    <MESSAGE value="MissingNumbers.js" />
+    <MESSAGE value="dynamic programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="dynamic programming" />
+  </component>
+</project>
